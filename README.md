@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Ines Zidi 👋 </h1>
-<h3 align="center">A passionate Full Stack Developer and DevOps Engineer from Tunisia</h3>
+<h3 align="center">Cloud Computing & DevOps Engineer from Tunisia</h3>
 
 
 - 📫 How to reach me **ines.zidi@esprit.tn**
